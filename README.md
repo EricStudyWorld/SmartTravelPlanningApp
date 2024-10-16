@@ -1,6 +1,7 @@
 # Smart Travel Planning App
 <img width="1160" alt="AC1" src="https://github.com/EricStudyWorld/SmartTravelPlanningApp/assets/158440725/835f9961-036f-4a41-9107-44267fb0fa6b">
 Report: https://docs.google.com/document/d/1vtrs_8W3Bhas3sZ2VC3s00BxR2TFDjCI/edit?usp=sharing&ouid=118110240488330587878&rtpof=true&sd=true
+
 PPT: https://docs.google.com/presentation/d/16KNl8QbqsDYzcSJMTJ19XOuwiQjxsj2_/edit?usp=sharing&ouid=118110240488330587878&rtpof=true&sd=true
 
 # Setting
